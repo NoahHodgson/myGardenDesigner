@@ -1,3 +1,2 @@
-# CISC275-project-template
-
-Note: for Github Actions to compile with gradle you must use the directory structure `src/main/java/` and `src/main/resources/`
+CISC 275 Final Project done with a team of 3.
+Garden Design Application
